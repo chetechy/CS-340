@@ -1,4 +1,4 @@
-# CS-340
+# 8-2 Journal: Portfolio Item
 Client/Server Development
 # How do you write programs that are maintainable, readable, and adaptable? 
 Simply making sure you’re your project and solutions are properly documented and allocated can save you a lot of issues. Also making sure your environment is properly setup can save a lot of time with configuration issues. Taking the time to develop readable code including notes will also help. 
